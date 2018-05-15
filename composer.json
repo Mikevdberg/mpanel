@@ -1,5 +1,5 @@
 {
-    "name": "MikevdBerg/Mpanel",
+    "name": "mikevdberg/mpanel",
     "description": "Custom CMS for MikevdBerg projects",
     "require": {
         "php": "^5.3.3 || ^7.0",
