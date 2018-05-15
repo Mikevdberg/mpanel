@@ -1,19 +1,8 @@
-"repositories": [
-    {
-        "type": "package",
-        "package": {
-            "name": "mikevdberg/mpanel",
-            "version": "dev-master",
-            "source": {
-                "url": "git://github.com/Mikevdberg/mpanel.git",
-                "type": "git",
-                "reference": "master"
-            },
-            "autoload": {
-                "psr-0" : {
-                    "Mikevdberg\\Mpanel" : "src"
-                }
-            }
-        }
+{
+    "name": "MikevdBerg/Mpanel",
+    "description": "Custom CMS for MikevdBerg projects",
+    "require": {
+        "php": "^5.3.3 || ^7.0",
+        "fpdo/fluentpdo": "1.1.*"
     }
-],
+}
